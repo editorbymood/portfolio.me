@@ -60,4 +60,5 @@
 
 **Licensed under the MIT License.**
 
-<p align="center"> Designed and Build by **SHANKET KUMAR** </p>    
+<p align="center"> Designed and Build by SHANKET KUMAR </p>    
+
